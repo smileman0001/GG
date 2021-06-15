@@ -19,6 +19,7 @@ public class GameScript : MonoBehaviour
     public GameObject Win;
     public GameObject Menu1st;
     public GameObject Theory;
+    public GameObject Intro;
 
     public Image QuizBack;
     public Sprite Right;
@@ -176,6 +177,11 @@ public class GameScript : MonoBehaviour
     {
         if (answersText[index].text.ToString() == currentQuestion.answers[0]) StartCoroutine(trueOrFalse(true));
         else StartCoroutine(trueOrFalse(false));
+    }
+
+    public void IntroOut()
+    {
+        Animate(Intro, "OutIntro");
     }
 
     public void TheoryIn()

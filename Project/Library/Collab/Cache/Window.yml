@@ -14,10 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scripts/ShowShop.cs
-    - Assets/Scripts/ShowShop.cs.meta
+    - Assets/New textures/Intro.controller
+    - Assets/New textures/Intro.controller.meta
+    - Assets/New textures/IntroOut.anim
+    - Assets/New textures/IntroOut.anim.meta
+    - Assets/Scenes/Main.unity
+    - Assets/Scripts/GameScript.cs
     - 
-    m_Values: 000000
+    m_Values: 00000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
