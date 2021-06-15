@@ -9,10 +9,9 @@ public class Item : MonoBehaviour
 
     public void buy()
     {
-        if(GetComponentInParent<Shop>().money >= cost)
+        if(GetComponentInParent<GameScript>().AllGold >= cost)
         {
-            GetComponentInParent<Shop>().money -= cost;
-            GetComponentInParent<Shop>().addItem(itemName);
+            GetComponentInParent<GameScript> ().AllGold -= cost;
         }
     }
 }

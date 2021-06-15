@@ -12,8 +12,7 @@ public class ShowPanel : MonoBehaviour
         Back.alpha = 0;
         Back.LeanAlpha(1, 0.5f);
 
-        box.localPosition = new Vector2(-239.25f, +Screen.height);
-        box.LeanMoveLocalY(0, -100f).setEaseOutExpo().delay = 0.1f;
+        box.localPosition = new Vector2(-285f, -320f);
     }
 
 

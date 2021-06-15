@@ -1,7 +1,16 @@
 fileFormatVersion: 2
 guid: 65a2633983f4cac449c8b6c96676a17b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2001164280860144489
+    second: Sure__0
+  - first:
+      213: -2194528313938474274
+    second: Sure__1
+  - first:
+      213: 3367810816239308576
+    second: Sure__2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +50,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +84,84 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Sure__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 1089
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637ed19f4095cb10800000000000000
+      internalID: 2001164280860144489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sure__1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 46
+        width: 211
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda092620287b81e0800000000000000
+      internalID: -2194528313938474274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sure__2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 46
+        width: 211
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f89ac081edcbe20800000000000000
+      internalID: 3367810816239308576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
