@@ -32,4 +32,4 @@ desktop
 # Структура приложения
 
 # Прототип в фигме
-[url=https://www.figma.com/proto/6BXTdSrtMGP5uCgPGCFN8D/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82?page-id=0%3A1&node-id=11%3A2&viewport=306%2C422%2C0.11586159467697144&scaling=contain]Прототип[/url]
+[Прототип](https://www.figma.com/proto/6BXTdSrtMGP5uCgPGCFN8D/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82?page-id=0%3A1&node-id=11%3A2&viewport=306%2C422%2C0.11586159467697144&scaling=contain)
